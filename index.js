@@ -6,7 +6,7 @@ window.addEventListener('load', function(){
     if(window.location.href.startsWith('URL'))return;
     var link =window.location.replace('URL');
     if(window.location.href !== link){ 
-        while(link===link){     
+        while(location.href===link){     
        
             if(location.href === link)return
         
