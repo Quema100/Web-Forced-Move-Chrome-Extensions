@@ -1,4 +1,4 @@
-history.pushState(null, null, window.location.href);
+history.pushState(null, null, window.location.href); //made by Quema
     window.onpopstate = function () {
         history.go(1);
 };
