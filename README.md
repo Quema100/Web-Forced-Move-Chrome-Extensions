@@ -23,17 +23,18 @@ URL부분에 원하시는 링크를 추가하세요.
 ![활성화](./이미지/2.JPG)
 
 - ***id부분은 지웠습니다***
-
+<!---
 4.사용했을 때 예시 영상
 
 - [예시 영상](https://www.youtube-nocookie.com/embed/jWVJ2bMylc4?controls=0)
-
+---->
 **주의사항**
 
 - 삽입한 링크 앞에 부분이 같은 사이트에서 이용할시 작동이 불가합니다
   - EX) https://www.youtube.com , https://www.youtube.com/c/youtubekorea 이런식으로 앞부분이 같으면 작동이 불가합니다
 
-
+<!---
 ## 기타
 - 도와주신분
   - @KoreaHanwoo님
+---->
